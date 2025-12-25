@@ -14,12 +14,12 @@ Speaker Hire Clayton - Landing Page
 ​Navigate to Pages: On the left sidebar, scroll down and click Pages.
 ​Select Source: Under "Build and deployment", select Deploy from a branch.
 ​Choose Branch: Select main (or master) and the / (root) folder, then click Save.
-​Wait about 60 seconds, and GitHub will provide you with a live URL (e.g., https://yourusername.github.io/speaker-hire-clayton/).
+​Wait about 60 seconds, and GitHub will provide you with a live URL.
 ​🔍 SEO Features
 ​Local Schema: Includes hidden JSON-LD code that tells Google this is a "Local Business" in Clayton.
 ​Semantic HTML: Uses proper <article> and <section> tags for better indexing.
 ​Fast Loading: Uses Tailwind CSS via CDN for instant rendering on mobile devices.
 ​🔗 Main Business Links
-​Main Website: https://jayveertech.com
+​Main Website: (https://speaker.jayveertech.online/)
 ​Service Area: Clayton, Victoria (3168) and surrounding suburbs.
 ​© 2025 Jayveer Tech. All rights reserved.
